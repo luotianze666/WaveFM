@@ -78,3 +78,14 @@ WaveFM has been tested on `python 3.9` with the following requirements, and it s
 torch           2.0.1+cu118
 torchaudio      2.0.2
 ```
+
+## BibTex
+```
+@inproceedings{luo2025wavefm,
+  title={Wavefm: A high-fidelity and efficient vocoder based on flow matching},
+  author={Luo, Tianze and Miao, Xingchen and Duan, Wenbo},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={2187--2198},
+  year={2025}
+}
+```
