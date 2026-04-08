@@ -1,4 +1,4 @@
-# WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching
+# [NAACL 2025] WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching
 Arxiv: https://arxiv.org/abs/2503.16689
 
 Our audio demo page is available at https://luotianze666.github.io/WaveFM.
